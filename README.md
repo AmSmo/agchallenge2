@@ -15,6 +15,6 @@ Once that is saved you can type `npm run airgarage` in the command line.
 This will start up a node/express backend with a react frontend (not the prettiest but practical)
 
 Two searches Available...
-First is most relevant "Find Terrible Parking", so based on location.
+First is most relevant "Find Terrible Garage", so based on location.
 
-Second is "from bottom" which is from the bottom of the list... which may not give you the best results since most of those only have a single review. May be a target based on wanting to increase popularity but also may not be in a popular location.
+Second is "Last 50 In City" which is from the bottom of the list... which may not give you the best results since most of those only have a single review. May be a target based on wanting to increase popularity but also may not be in a popular location.
